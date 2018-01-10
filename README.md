@@ -1,4 +1,4 @@
-<html># <img src="https://i.imgur.com/EX4KZqT.png" width="32" height="32"> San Andreas V 
+# <img src="https://i.imgur.com/EX4KZqT.png" width="32" height="32"> San Andreas V 
 
 [San Andreas V](https://sanandreasv.com/) San Andreas V is a text-based FiveM roleplay community for Grand Theft Auto V..
 
